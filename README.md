@@ -1,1 +1,2 @@
 # Antigunscrolling-Modified
+w/ autoActivation 
